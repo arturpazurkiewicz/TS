@@ -1,0 +1,8 @@
+org\example\Message$Direction.class
+org\example\Wire$1.class
+org\example\Main.class
+org\example\Router.class
+org\example\Wire.class
+org\example\Message.class
+org\example\Router$OperatingMode.class
+org\example\Router$1.class
